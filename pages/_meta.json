@@ -1,0 +1,30 @@
+{
+  "index": {
+    "title": "My Homepage",
+    "display": "hidden",
+    "type": "page"
+  },
+  "fruits": {
+    "title": "Delicious Fruits",
+    "type": "page"
+  },
+  "framework": {
+    "title": "框架",
+    "type": "menu",
+    "items": {
+      "vue": {
+        "title": "尤大",
+        "href": "/framework/vue"
+      }
+    }
+  },
+  "about": {
+    "title": "关于",
+    "type": "page"
+  },
+  "github_link": {
+    "title": "Nextra",
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true
+  }
+}
